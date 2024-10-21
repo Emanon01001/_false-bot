@@ -1,0 +1,5 @@
+discord.py-self=2.0.0
+deepl=1.18.0
+yt-dlp=2024.8.6
+pytube=15.0.0
+urllib3=2.2.2
